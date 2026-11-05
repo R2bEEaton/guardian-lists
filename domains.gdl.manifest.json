@@ -1,0 +1,13 @@
+{
+  "version": 20261105,
+  "domains": 76796,
+  "sha256": "156ce8531cc22915484de4f59f2e28b014a9ea34997e653fefc9f46ea37452cc",
+  "sources": [
+    {
+      "name": "StevenBlack porn-only hosts",
+      "license": "MIT",
+      "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
+      "domains": 76796
+    }
+  ]
+}
